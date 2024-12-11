@@ -1,0 +1,42 @@
+style.css
+
+
+h1 {
+    color: rgb(203, 54, 13);
+}
+
+body {
+
+    text-align:center;
+    list-style-position: inside;
+    margin-top: 15%;
+background-color: rgb(227, 222, 209);
+    color:rgb(69, 107, 142);
+    
+} 
+
+h3 {
+margin-top: 40%;
+
+}
+p {
+    text-align: left;
+    padding-left: 10%;
+    padding-top:10%;
+}
+#closeddoor
+{
+   text-align: left;
+}
+#untitled_Artwork-16
+{
+    background-image: url(Untitled_Artwork\ 16.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#window small
+{
+    background-position: center;
+}
+
